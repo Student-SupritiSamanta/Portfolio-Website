@@ -1,0 +1,40 @@
+ body, h1, h2, h3, p, ul, li, form {
+    margin: 10px;
+    padding:0;
+} 
+
+nav ul li{
+    display: inline-block;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.container2 {
+    background-color: lightcyan;
+    border: 2px solid black;
+    margin-left: 30px;
+    margin-top: 30px;
+    padding: 50px 0;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
